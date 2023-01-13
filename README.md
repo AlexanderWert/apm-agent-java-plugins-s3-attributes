@@ -1,0 +1,1 @@
+# apm-agent-java-plugins-s3-attributes
